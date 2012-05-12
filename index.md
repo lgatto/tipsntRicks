@@ -7,20 +7,22 @@ title: A collection of R Tips'n Tricks
 
 ## What is R
 
-[R](http://www.r-project.org) is a free software environment for statistical computing and graphics.
+[R](http://www.r-project.org) is a free software environment for statistical computing and graphics. It is used in academia and industry, in many different fields, from (obviously) statistics, [finance](http://www.rinfinance.com/), [high-thoughput biology (*omics)](http://www.bioconductor.org), ... and can be expanded at in infinity through package ([CRAN](http://cran.r-project.org/), [Bioconductor](http://bioconductor.org/packages/release/BiocViews.html#___Software), [R-Forge](https://r-forge.r-project.org/), [omegahat](http://www.omegahat.org/cranRepository.html)).
 
-## Update Author Attributes
+## Documentation 
 
-This is done. And a bit more...
-    
+The are vast amounts of documentation about [R](http://www.r-project.org):
+ - the [R manuals](http://cran.r-project.org/manuals.html) page edited by the R Development Core Team
+ - each function has it own manual page and some packages come with a global overview in the form of a  _vignette_ 
+ - many free documents and tutorials freely available
+ - lots of general or specialised books
+ - several [mailing lists](http://www.r-project.org/mail.html) and dedicated [QA sites](http://stackoverflow.com/questions/tagged/r)
+ - ...
+ - and this little collection of tips and tricks that I found useful to collect 
+
 ## Sample Posts
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+Here's a sample of my R posts:
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -28,7 +30,6 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
 
 
 
