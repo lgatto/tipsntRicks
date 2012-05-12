@@ -7,7 +7,7 @@ title: A collection of R Tips'n Tricks
 
 ## What is R
 
-[R](http://www.r-project.org) is a free software environment for statistical computing and graphics. It is used in academia and industry, in many different fields, from (obviously) statistics, [finance](http://www.rinfinance.com/), [high-thoughput biology (*omics)](http://www.bioconductor.org), ... and can be expanded at in infinity through package ([CRAN](http://cran.r-project.org/), [Bioconductor](http://bioconductor.org/packages/release/BiocViews.html#___Software), [R-Forge](https://r-forge.r-project.org/), [omegahat](http://www.omegahat.org/cranRepository.html)).
+[R](http://www.r-project.org) is a free software environment for statistical computing and graphics. It is used in academia and industry, in many different fields, from (obviously) statistics, [finance](http://www.rinfinance.com/), [high-thoughput biology (omics)](http://www.bioconductor.org), ... and can be expanded at in infinity through package ([CRAN](http://cran.r-project.org/), [Bioconductor](http://bioconductor.org/packages/release/BiocViews.html#___Software), [R-Forge](https://r-forge.r-project.org/), [omegahat](http://www.omegahat.org/cranRepository.html)).
 
 ## Documentation 
 
