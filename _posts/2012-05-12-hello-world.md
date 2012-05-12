@@ -2,8 +2,8 @@
 layout: post
 title: "Hello World"
 description: "My first post"
-category: 'Hors categorie'
-tags: [test]
+category: ['Hors categorie', 'test']
+tags: [testtag1, testtag2]
 ---
 {% include JB/setup %}
 
