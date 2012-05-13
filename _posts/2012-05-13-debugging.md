@@ -40,8 +40,7 @@ Hadley Wickham suggested [this][20] to monitor a variable change:
 
 ```
 watch <- function(varname) {
-  old <- get(varname)
-    
+  old <- get(varname)    
   changed <- function(...) {
     new <- get(varname)
       if (!identical(old, new)) {
