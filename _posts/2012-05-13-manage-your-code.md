@@ -31,7 +31,7 @@ statistical analysis and report writing][9] on stackoverflow.
 And there is of course [Sweave][10], [org-mode][11] and [org-babel][12] modes
 for _high-level_ or process documentation.
 
-## Version control/revision control 
+### Version control/revision control 
 [R and version control for the solo data analyst][13] and 
 [How do you combine 'Revision Control' with 'WorkFlow' for
 R][8] on stackoverflow.
