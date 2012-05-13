@@ -36,6 +36,8 @@ There is also the [`debug`][17] and [`mvbutils`][18] packages. Have a go with
 [ess-tracedebug][19], an emacs package for interactive debugging and error
 tracing in ESS.
 
+### Watch a variable
+
 Hadley Wickham suggested [this][20] to monitor a variable change:
 
 <script src="https://gist.github.com/2690073.js?file=watch_variable.R"></script>
