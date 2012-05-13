@@ -40,6 +40,10 @@ Hadley Wickham suggested [this][20] to monitor a variable change:
 
 <script src="https://gist.github.com/2690073.js?file=watch_variable.R"></script>
 
+And the usage
+
+<script src="https://gist.github.com/2690073.js?file=watch_variable_output.R"></script>
+
 ### Inserting code into a package
 
 Inserting code into a package without re-installing it, to facilitate testing
