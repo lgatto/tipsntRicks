@@ -40,24 +40,24 @@ Hadley Wickham suggested [this][20] to monitor a variable change:
 
 ```R
 watch <- function(varname) {
-  old <- get(varname)    
-  changed <- function(...) {
-    new <- get(varname)
-      if (!identical(old, new)) {
-        message(varname, " is now ", new)
-        old <<- new
-      }
-    TRUE
-  }
-  invisible(addTaskCallback(changed))
+	old <- get(varname)
+	changed <- function(...) {
+		new <- get(varname)
+		if (!identical(old, new)) {
+		message(varname, " is now ", new)
+		old <<- new
+		}
+	TRUE
+	}
+	invisible(addTaskCallback(changed))
 }
 ```
 And the output
 ```
-> a <- 1
-> watch("a")
-> a <- 2
- a is now 2
+	> a <- 1
+	> watch("a")
+	> a <- 2
+	 a is now 2
 ```
 
 ### Inserting code into a package
