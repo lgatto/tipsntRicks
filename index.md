@@ -23,7 +23,7 @@ The are vast amounts of documentation about [R](http://www.r-project.org):
 
 To best use this site, feel free to browser the [archive](http://lgatto.github.com/tipsntRicks/archive.html) or select a [catergory](http://lgatto.github.com/tipsntRicks/categories.html) or [tags](http://lgatto.github.com/tipsntRicks/tags.html) of interest.
 
-## Before `tripsntRicks`
+## Before `tipsntRicks`
 
 Before setting up to repository, the content was available on [slashhome.be](http://www.slashome.be). The publication date is when the content was moved here; some posts are much older and possibly a bit outdated. 
 
