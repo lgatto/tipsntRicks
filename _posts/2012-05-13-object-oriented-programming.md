@@ -3,7 +3,7 @@ layout: post
 title: "Object oriented programming"
 description: ""
 category: 'Best Practices'
-tags: [OO, S3, S4, ReferenceClasses]
+tags: [OO, S3, S4, ReferenceClasses, development]
 ---
 {% include JB/setup %}
 
