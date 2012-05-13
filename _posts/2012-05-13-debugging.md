@@ -79,7 +79,7 @@ package.'
 
 ### Profiling code
 Profiling `R CMD Rprof --help`, as well as [`profr`][21], [`proftools`][22],
-[`debug`][23], [`rbenchmark`][24] and [`benchmark`][25] CRAN packages. Read
+[`debug`][17], [`rbenchmark`][24] and [`benchmark`][25] CRAN packages. Read
 here about [memory profiling][26]
 
     
@@ -105,7 +105,6 @@ here about [memory profiling][26]
    [20]: http://www.mail-archive.com/r-help@r-project.org/msg125980.html
    [21]: http://cran.r-project.org/web/packages/profr/index.html
    [22]: http://cran.r-project.org/web/packages/proftools/index.html
-   [23]: http://cran.r-project.org/web/packages/debug/index.html
-   [24]: http://cran.r-project.org/web/packages/rbenchmark/
-   [25]: http://cran.r-project.org/web/packages/benchmark/
-   [26]: http://developer.r-project.org/memory-profiling.html
+   [23]: http://cran.r-project.org/web/packages/rbenchmark/
+   [24]: http://cran.r-project.org/web/packages/benchmark/
+   [25]: http://developer.r-project.org/memory-profiling.html
