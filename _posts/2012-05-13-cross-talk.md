@@ -2,7 +2,7 @@
 layout: post
 title: "Cross Talk"
 description: "Interfacing R With Other Languages"
-category: CrossTalk
+category: 'Cross Talk'
 tags: [Java, Perl, Python, C, C++]
 ---
 {% include JB/setup %}
