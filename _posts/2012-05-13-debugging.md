@@ -14,7 +14,7 @@ Two videos on [how to debug R][1]: [basic debugging in R][2] by
 Jay Emerson and [advanced debugging techniques][3] by Harlan Harris. There is
 also Richie Cotton's Oh (de)bugger! [part 1][4] and [2][5] posts.
 
-## More links about debugging 
+### More links about debugging 
 
 [Debugging in R][6]: using R's build-in tools `debug()`, `browser()` and `trace()`, 
 post-morten debugging, R's exception handling and more. 
@@ -78,6 +78,7 @@ package.'
 
 
 ### Profiling code
+
 Profiling `R CMD Rprof --help`, as well as [`profr`][21], [`proftools`][22],
 [`debug`][17], [`rbenchmark`][24] and [`benchmark`][25] CRAN packages. Read
 here about [memory profiling][26]
