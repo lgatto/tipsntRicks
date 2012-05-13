@@ -18,7 +18,14 @@ The are vast amounts of documentation about [R](http://www.r-project.org):
  - lots of general or specialised books
  - several [mailing lists](http://www.r-project.org/mail.html) and dedicated [QA sites](http://stackoverflow.com/questions/tagged/r)
  - ...
- - and this little collection of tips and tricks that I found useful to collect 
+ - ...
+ - and this little collection of tips and tricks that I found useful to collect.
+
+To best use this site, feel free to browser the [archive](http://lgatto.github.com/tipsntRicks/archive.html) or select a [catergory](http://lgatto.github.com/tipsntRicks/categories.html) or [tags](http://lgatto.github.com/tipsntRicks/tags.html) of interest.
+
+## Before `tripsntRicks`
+
+Before setting up to repository, the content was available on [slashhome.be](http://www.slashome.be). The publication date is when the content was moved here; some posts are much older and possibly a bit outdated. 
 
 ## Sample Posts
 
