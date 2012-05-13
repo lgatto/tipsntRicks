@@ -60,7 +60,7 @@ watch <- function(varname) {
 
 And the usage
 
-{% highlight out %}
+{% highlight rout %}
 > a <- 1
 > watch("a")
 > a <- 2
