@@ -41,11 +41,31 @@ tracing in ESS.
 Hadley Wickham suggested [this][20] to monitor a variable change:
 
 
-<script src="https://gist.github.com/2690073.js?file=watch_variable.R"></script>
+{% highlight r %}
+## Credit Hadley Wickham 
+## http://www.mail-archive.com/r-help@r-project.org/msg125980.html
+watch <- function(varname) {
+ old <- get(varname)
+ changed <- function(...) {
+   new <- get(varname)
+   if (!identical(old, new)) {
+     message(varname, " is now ", new)
+     old <<- new
+   }
+   TRUE
+ }
+ invisible(addTaskCallback(changed))
+}
+{% endhighlight %}
 
 And the usage
 
-
+{% highlight out %}
+> a <- 1
+> watch("a")
+> a <- 2
+ a is now 2
+{% endhighlight %}
 
 ### Inserting code into a package
 
