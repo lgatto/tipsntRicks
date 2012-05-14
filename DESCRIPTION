@@ -1,0 +1,11 @@
+Package: tipsntRicks
+Type: Package
+Title: A collection of R tips and tricks.
+Version: 0.1
+Date: 2012-05-14
+Author: Laurent Gatto 
+Maintainer: Laurent Gatto <lg390@cam.ac.uk>
+Description: Code that comes with the 'tipsntRicks - a collection 
+	     of R tips and tricks' website. 	     
+License: Artistic-2
+URL: http://lgatto.github.com/tipsntRicks/
