@@ -8,7 +8,7 @@
 ##' @examples
 ##' a <- 1
 ##' f <- function(x, y) 
-##'  MSnbase:::getVariableName(match.call(), "x")
+##'  getVariableName(match.call(), "x")
 ##' f(x = a)
 ##' f(y = a)
 ##' @author Laurent Gatto
