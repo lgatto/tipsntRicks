@@ -58,6 +58,8 @@ watch <- function(varname) {
 }
 {% endhighlight %}
 
+(Get the [gist](https://gist.github.com/2690073).)
+
 And the usage
 
 {% highlight rout %}
