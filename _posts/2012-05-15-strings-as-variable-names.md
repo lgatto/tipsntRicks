@@ -57,7 +57,7 @@ From [stackoverflow](http://stackoverflow.com/questions/3548263/l-ply-how-to-pas
  [1] "one"   "two"   "three"
 {% endhighlight %}
 
-(Get the [gist](https://gist.github.com/2704256) or get the function in the `tipsntRicks` [package](https://github.com/lgatto/rols).)
+(Get the [gist](https://gist.github.com/2704256) or get the function in the `tipsntRicks` [package](https://github.com/lgatto/tipsntRicks).)
 
 [Here](http://stackoverflow.com/questions/8790143/does-the-ternary-operator-exist-in-r) is a nice utilisation of `deparse`, `parse` and `substitute` to
 implement `C`'s [ternary operator](http://en.wikipedia.org/wiki/Ternary_operation) by SO user [kohske](http://stackoverflow.com/users/314020/kohske).
