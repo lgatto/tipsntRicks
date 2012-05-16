@@ -58,7 +58,7 @@ watch <- function(varname) {
 }
 {% endhighlight %}
 
-(Get the [gist](https://gist.github.com/2690073) or get the function in the `tipsntRicks` [package](https://github.com/lgatto/rols).)
+(Get the [gist](https://gist.github.com/2690073) or get the function in the `tipsntRicks` [package](https://github.com/lgatto/tipsntRicks).)
 
 And the usage
 
