@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "scatterhist"
-description: ""
+description: "Scatterplots with marginal histograms"
 category: Plotting
 tags: [Plot, visualisation]
 ---
 {% include JB/setup %}
 
 
-Scatterplot with marginal histograms. This one come from this SAS and R [post](http://sas-and-r.blogspot.com/2011/06/example-841-scatterplot-with-marginal.html) by Charles Heckler, and simply but elegantly combines a scatter plot with 2 histograms to highlight the distribution of the two variables. The code below (slightly modified) first creates the specific plot `layout` with the layout function, sets the appropriate margins depending on the plot using `par(mar)`, does the actual plotting with plot and eventually adds the axes labels in the margins with `mtext`. The two variables of interest are simply them passed as `x` and `y` parameters.
+This one come from this SAS and R [post](http://sas-and-r.blogspot.com/2011/06/example-841-scatterplot-with-marginal.html) by Charles Heckler, and simply but elegantly combines a scatter plot with 2 histograms to highlight the distribution of the two variables. The code below (slightly modified) first creates the specific plot `layout` with the layout function, sets the appropriate margins depending on the plot using `par(mar)`, does the actual plotting with plot and eventually adds the axes labels in the margins with `mtext`. The two variables of interest are simply them passed as `x` and `y` parameters.
 
 {% highlight r %}
 scatterhist <- function(x, y, xlab="", ylab=""){
