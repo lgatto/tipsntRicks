@@ -41,7 +41,7 @@ And the usage
 > scatterhist(x,y)
 {% endhighlight %}
 
-![scatterhist example]()
+![scatterhist example](http://lgatto.github.com/tipsntRicks/inst/images/scatterhist.png)
 
 One note about the the usage of `barplot` to draw the histograms, rather than `hist`. Histograms can not be plotted horizontally (from the `hist` help page: Typical plots with vertical bars are **not** histograms. Consider `barplot` or `plot(*, type = "h")` for such bar plots), which is why is is necessary to use `barplot` instead, to get the desired effect.
 
