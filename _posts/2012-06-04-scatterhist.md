@@ -3,7 +3,7 @@ layout: post
 title: "scatterhist"
 description: "Scatterplots with marginal histograms"
 category: Plotting
-tags: [Plot, visualisation]
+tags: [Plot, visualisation, data]
 ---
 {% include JB/setup %}
 

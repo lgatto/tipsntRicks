@@ -2,7 +2,7 @@
 layout: post
 title: "About limma"
 category: Bioconductor
-tags: [statistics]
+tags: [statistics, package]
 ---
 {% include JB/setup %}
 

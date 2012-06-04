@@ -3,7 +3,7 @@ layout: post
 title: "emails in R"
 description: "Send emails using R"
 category: Misc
-tags: [misc]
+tags: [misc, package]
 ---
 {% include JB/setup %}
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Testing your code"
 category: 'Best Practices'
-tags: [unit testing, integration testing, reproducible research, development]
+tags: [unit testing, integration testing, reproducible research, development, package]
 ---
 {% include JB/setup %}
 
