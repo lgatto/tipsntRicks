@@ -3,7 +3,7 @@ layout: post
 title: "Debugging"
 description: "Search and destroy"
 category: 'Best Practices'
-tags: [debug, developement, profile]
+tags: [debug, development, profile]
 ---
 {% include JB/setup %}
 
