@@ -3,7 +3,7 @@ layout: post
 title: "tableplot"
 description: "Visualise a dataframe"
 category: Plotting 
-tags: [Plot, visualisation, data, package]
+tags: [plot, visualisation, data, package]
 ---
 {% include JB/setup %}
 
