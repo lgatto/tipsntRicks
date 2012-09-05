@@ -2,7 +2,7 @@
 \alias{scatterhist}
 \title{Scatterplot with marginal histograms}
 \usage{
-  scatterhist(x, y, xlab = "", ylab = "")
+  scatterhist(x, y, xlab = "", ylab = "", ...)
 }
 \arguments{
   \item{x}{Data to be plotted along the x axis.}
@@ -12,6 +12,8 @@
   \item{xlab}{x axis label. Default is empty character.}
 
   \item{ylab}{y axis label. Default is empty character.}
+
+  \item{...}{additional parameters passed to plot.}
 }
 \value{
   Used for its side effect.
@@ -26,6 +28,10 @@ y <- rnorm(1:100)
 scatterhist(x,y)
 }
 \author{
-  Laurent Gatto
+  Ken Kleinman
+}
+\references{
+  From
+  \url{http://sas-and-r.blogspot.co.uk/2011/06/example-841-scatterplot-with-marginal.html}
 }
 

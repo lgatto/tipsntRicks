@@ -1,3 +1,8 @@
+CHANGES IN VERSION 0.1.2
+-------------------------
+ o added ... param to scatterhist to be passed 
+   to plot <2012-09-05 Wed>
+ 
 CHANGES IN VERSION 0.1.1
 -------------------------
  o scatterhist function <2012-06-04 Mon>
