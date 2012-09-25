@@ -46,3 +46,5 @@ And the usage
 One note about the the usage of `barplot` to draw the histograms, rather than `hist`. Histograms can not be plotted horizontally (from the `hist` help page: Typical plots with vertical bars are **not** histograms. Consider `barplot` or `plot(*, type = "h")` for such bar plots), which is why is is necessary to use `barplot` instead, to get the desired effect.
 
 The margins or the number of breaks in the histograms might need to be fine-tuned, but the function is simple and the result is helpful and straightforward to understand.
+
+*Update:* Ken Kleinman has posted an [enhanced scatterplot with marginal histograms](http://sas-and-r.blogspot.co.uk/2012/09/example-103-enhanced-scatterplot-with.html).
