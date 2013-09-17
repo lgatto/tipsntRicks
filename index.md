@@ -25,7 +25,7 @@ To best use this site, feel free to browser the [archive](http://lgatto.github.c
 
 ## Before `tipsntRicks`
 
-Before setting up to repository, the content was available on [slashhome.be](http://www.slashome.be). The publication date is when the content was moved here; some posts are much older and possibly a bit outdated. 
+Before setting up to repository, the content was available on [slashhome.be](http://www.slashhome.be). The publication date is when the content was moved here; some posts are much older and possibly a bit outdated. 
 
 ## Sample Posts
 
